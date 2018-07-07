@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d480a2f9-a1cf-49c8-af88-82bb39149e89" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/auth-server/authorization_code/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/auth-server/authorization_code/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-server/authorization_code/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/auth-server/authorization_code/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/auth-server/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth-server/authorization_code/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1184">
+              <caret line="49" column="140" selection-start-line="49" selection-start-column="140" selection-end-line="49" selection-end-column="140" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth-server/authorization_code/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth-server/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth-server/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-196" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+                <folding>
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#42#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#35#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#28#0" expanded="true" />
+                  <element signature="e#0#28#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="311">
+                <caret line="30" column="247" selection-start-line="30" selection-start-column="247" selection-end-line="30" selection-end-column="247" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>var client</find>
+      <find>res.redi</find>
+      <find>var scope</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/auth-server" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/src/App.css" />
+        <option value="$PROJECT_DIR$/auth-server/authorization_code/public/index.html" />
+        <option value="$PROJECT_DIR$/client/public/index.html" />
+        <option value="$PROJECT_DIR$/client/README.md" />
+        <option value="$PROJECT_DIR$/auth-server/authorization_code/app.js" />
+        <option value="$PROJECT_DIR$/client/src/App.js" />
+        <option value="$PROJECT_DIR$/auth-server/package.json" />
+        <option value="$PROJECT_DIR$/client/package.json" />
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/auth-server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/client/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/auth-server/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/cors/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/cryptiles/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/auth-server/package.json" />
+      <path value="$PROJECT_DIR$/client/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="331" />
+    <option name="y" value="55" />
+    <option name="width" value="1028" />
+    <option name="height" value="771" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spotify-api-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spotify-api-intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spotify-api-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spotify-api-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spotify-api-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spotify-api-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spotify-api-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spotify-api-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.startclient">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="buildclient" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="buildclient" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="installclientstuff" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="installclientstuff" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="installserverstuff" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/auth-server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="installserverstuff" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="startclient" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="startclient" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="startserver" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/auth-server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="startserver" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="npm.startclient" />
+      <item itemvalue="npm.startserver" />
+      <item itemvalue="npm.installserverstuff" />
+      <item itemvalue="npm.installclientstuff" />
+      <item itemvalue="npm.buildclient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.startclient" />
+        <item itemvalue="npm.installclientstuff" />
+        <item itemvalue="npm.buildclient" />
+        <item itemvalue="npm.installserverstuff" />
+        <item itemvalue="npm.startserver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d480a2f9-a1cf-49c8-af88-82bb39149e89" name="Default" comment="" />
+      <created>1530912149142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530912149142</updated>
+      <workItem from="1530912150907" duration="10100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10100000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="331" y="55" width="1028" height="771" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998565" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17898832" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Learn" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/auth-server/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/authorization_code/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <folding>
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#42#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#35#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/authorization_code/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1184">
+          <caret line="49" column="140" selection-start-line="49" selection-start-column="140" selection-end-line="49" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-196" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="311">
+            <caret line="30" column="247" selection-start-line="30" selection-start-column="247" selection-end-line="30" selection-end-column="247" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
